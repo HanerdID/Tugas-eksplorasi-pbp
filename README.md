@@ -7,7 +7,7 @@ Link Sumber Belajar
 - [Flutter ToDo App Tutorial for Beginners](https://youtu.be/K4P5DZ9TRns)
 
 ## Screenshot
-![Flutter todo app](./flutter-todo-iphone.png)
+![Flutter todo app](./display.png)
 
 # Cara run aplikasi
 Pastikan sudah mempunyai emulator device (baik android maupun ios)
@@ -19,4 +19,3 @@ Pastikan sudah mempunyai VsCode dengan Flutter beserta Dart yang sudah bisa diru
 4. upgrade dependencies dengan 'flutter pub upgrade'
 5. edit file pubspec.yaml dengan 'flutter pub upgrade --major-versions'
 6. lalu 'flutter run'
-# test
